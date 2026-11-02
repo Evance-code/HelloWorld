@@ -6,7 +6,7 @@ Hello World is a small Python program that prints a greeting to the screen. It p
 
 My purpose in writing this software was to confirm that my development environment works, and to practice the full cycle of writing code, documenting it, recording a demo, and publishing it to a public GitHub repository. I will use the same process for every project I build.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/SOKMKs_c5Uk)
 
 # Development Environment
 
